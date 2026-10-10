@@ -1,5 +1,10 @@
 # 重力花园 · Gravity Garden
 
+> **项目迁移公告（2026-10-10）**：本仓库作为历史版本保存。今后主要在 [游戏厅的重力花园](https://ndshuge.github.io/ndshuge-game/games/gravity-garden/) 维护；[统一源码仓库](https://github.com/ndshuge/ndshuge-game/tree/main/games/gravity-garden)。原 Git 历史和旧 Pages 入口保留。
+
+---
+
+
 超真实物理引擎（cannon-es 刚体物理 + three.js 渲染）的点击即玩小游戏。
 暮色花园里撒下刚体，看它们真实地坠落、碰撞、堆叠；右键引爆掀飞一切；空格翻转重力。
 
